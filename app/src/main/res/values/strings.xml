@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PicassoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="click_to_download_the_image">Click to download the image</string>
+    <string name="download_failed">Download failed!</string>
+    <string name="download_succeed">Download Succeed!</string>
+    <string name="name_course">Desarrollo de Aplicaciones Empresariales con Android</string>
+</resources>
